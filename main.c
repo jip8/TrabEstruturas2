@@ -155,7 +155,7 @@ void liberarArv(No* raiz) {
 }
 
 int main() {
-    printf("TRABALHO DE ESTRUTURAS DE DADOS\n");
+    printf("PROJETO DE ESTRUTURAS DE DADOS\n");
 
     char expressao[100], expInf[100] = "";
     printf("Digite a expressao aritmetica: ");
